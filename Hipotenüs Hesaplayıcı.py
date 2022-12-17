@@ -7,7 +7,4 @@ c = a**2 + b**2
 
 d = c ** 0.5
 
-e =round(d,1)
-
-
-print("Sonuç : {: .0f}".format(e))
+print("Sonuç : {: .0f}".format(d))
